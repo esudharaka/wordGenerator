@@ -1,0 +1,15 @@
+{
+  "name": "word-maker",
+  "version": "1.0.0",
+  "description": "Makes random words",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  }
+}
